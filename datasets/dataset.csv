@@ -1,0 +1,101 @@
+﻿musim,umur,child_disease,trauma_serius,intervensi_bedah,demam_tinggi,alkohol,merokok,class
+spring,25,0,1,1,more three month,once,0,N
+spring,34,1,0,1,more three month,once,1,O
+spring,18,1,0,0,more three month,never,-1,N
+spring,27,0,1,1,more three month,never,-1,N
+spring,24,1,1,0,more three month,once,-1,O
+spring,24,1,0,1,more three month,once,0,N
+spring,24,0,0,0,less three month,once,-1,N
+spring,36,1,1,1,0,week,-1,N
+fall,23,0,0,1,0,once,-1,N
+fall,22,1,0,0,0,never,-1,N
+fall,24,1,1,0,less three month,once,0,N
+fall,28,1,1,1,0,week,0,N
+fall,27,1,1,1,0,once,1,N
+fall,29,1,0,0,0,never,-1,N
+fall,34,1,1,1,0,day,-1,N
+fall,29,1,1,0,0,never,1,N
+fall,23,1,0,1,0,never,-1,N
+fall,25,1,0,1,0,once,-1,O
+fall,27,1,1,1,0,never,1,N
+fall,24,1,0,0,0,once,1,O
+fall,24,0,0,1,0,once,-1,N
+fall,27,1,0,0,0,week,0,N
+fall,24,1,1,0,0,once,-1,N
+fall,25,1,0,1,less three month,never,-1,O
+fall,20,1,0,1,0,never,-1,N
+fall,24,1,0,0,0,never,-1,N
+fall,24,1,0,1,0,week,-1,O
+fall,28,1,1,0,1,week,-1,O
+fall,21,0,0,1,0,never,-1,N
+fall,24,0,0,1,0,week,0,O
+fall,22,1,0,1,0,never,-1,N
+fall,20,1,0,0,0,never,-1,N
+fall,23,0,0,0,0,never,-1,N
+fall,21,1,1,1,0,once,0,N
+fall,20,1,1,1,0,never,-1,N
+winter,28,1,1,0,1,week,-1,N
+winter,28,1,0,1,0,never,-1,N
+winter,20,1,0,1,0,never,-1,N
+winter,24,0,0,1,0,week,0,O
+winter,25,1,0,0,0,never,-1,N
+winter,19,1,1,1,0,once,1,N
+winter,20,1,1,0,0,once,1,N
+winter,21,1,0,1,less three month,once,1,N
+winter,20,1,0,0,0,never,-1,N
+winter,19,1,1,0,1,never,0,N
+winter,19,1,0,0,1,never,0,N
+spring,20,1,0,0,0,never,-1,N
+spring,26,1,1,0,0,week,1,N
+spring,23,1,1,1,0,once,-1,N
+spring,27,1,1,1,0,week,-1,N
+spring,24,1,0,1,0,once,-1,N
+spring,19,1,1,0,1,never,-1,N
+spring,19,1,1,0,0,once,0,N
+spring,21,1,1,1,less three month,once,0,N
+spring,22,1,0,1,0,never,-1,N
+spring,21,1,0,1,0,once,1,N
+spring,19,1,1,0,0,once,0,N
+spring,25,1,1,1,less three month,never,-1,N
+spring,20,1,1,0,0,every,1,N
+fall,21,0,0,0,1,once,1,N
+fall,20,0,0,0,1,once,0,N
+winter,23,1,0,0,1,never,1,N
+winter,22,1,1,1,0,week,-1,N
+winter,20,1,0,0,1,never,-1,N
+winter,19,1,0,0,1,once,-1,N
+spring,20,0,0,1,0,never,-1,N
+spring,18,1,1,0,less three month,once,0,N
+spring,18,1,0,0,1,never,-1,N
+spring,18,1,0,0,1,once,0,N
+spring,18,1,0,1,less three month,once,-1,N
+spring,18,1,1,0,less three month,once,0,O
+summer,25,1,0,0,1,never,-1,N
+fall,20,1,0,0,1,week,0,N
+winter,18,1,0,0,1,once,-1,N
+winter,19,1,0,0,1,once,-1,N
+winter,28,1,0,1,1,never,1,N
+winter,27,1,0,1,1,week,0,N
+winter,26,1,1,1,1,once,-1,N
+winter,19,1,1,0,1,once,-1,N
+winter,36,1,0,1,1,week,0,N
+spring,33,1,1,0,1,never,-1,N
+winter,29,1,1,1,1,once,0,N
+spring,33,1,0,0,1,week,-1,N
+spring,31,1,1,1,1,never,-1,N
+spring,28,1,0,0,1,never,1,O
+spring,32,1,1,0,0,week,1,N
+spring,27,1,1,1,0,week,1,N
+spring,27,1,1,1,1,once,1,N
+spring,30,1,1,1,0,never,-1,N
+spring,29,1,1,1,0,never,1,N
+spring,29,1,1,1,1,once,-1,N
+summer,28,1,0,0,0,never,1,N
+summer,27,1,1,0,0,once,-1,N
+summer,27,1,0,1,0,once,-1,O
+fall,21,1,0,0,0,week,1,N
+winter,24,1,0,0,0,never,-1,N
+winter,22,1,0,0,0,once,0,N
+winter,24,1,1,1,0,never,-1,N
+winter,23,1,0,1,0,never,0,N
+winter,25,0,1,1,0,week,-1,N

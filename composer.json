@@ -1,0 +1,12 @@
+{
+    "name": "ardli/data-mining",
+    "authors": [
+        {
+            "name": "ardli-firman",
+            "email": "ardlifirman17@gmail.com"
+        }
+    ],
+    "require": {
+	    "juliardi/c45": "*"
+	}
+}
